@@ -1,0 +1,10 @@
+# Ignore data files
+*.xml
+*.7z
+*.csv
+*.parquet
+*.delta/
+
+# Ignore local environment folders
+venv/
+.ipynb_checkpoints/
