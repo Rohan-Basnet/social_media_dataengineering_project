@@ -16,4 +16,11 @@ The project follows the **Medallion Architecture**, providing a clear separation
 | **🥈 Silver** | Cleansed | Handles data type casting, trims whitespace, and removes duplicates. |
 | **🥇 Gold** | Curated | Final Star Schema (Facts & Dimensions) optimized for Power BI/Tableau. |
 
+---
+
+## 🛠️ Tech Stack
+* **Data Platform:** Databricks
+* **Language:** Python, SQL
+* **Data Processing Tool:** Pyspark
+
 
