@@ -4,7 +4,9 @@
 
 ## 🚀 Project Overview
 Implemented a data pipeline using Math Stack Exchange dataset, performing scalable transformations using PySpark and designed star schema data models using SQL for analytics.
+
 ---
+
 ## 🏗️ Data Architecture
 The project follows the **Medallion Architecture**, providing a clear separation of concerns:
 
