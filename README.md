@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 Project Overview
-Implemented a data pipeline using Math Stack Exchange dataset, performing scalable transformations using PySpark and designed star schema data models using SQL for analytics.
+Designed a scalable data pipeline using Math Stack Exchange dataset, performing scalable transformations using PySpark and build data models(star schema ) using SQL for analytics.
 
 ---
 
